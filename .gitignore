@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Базы данных
+*.db
+*.sqlite3
+*.sqlite
+
+# Кэш и временные данные
+cache_data/
+*.cache.json
+*.json
+debug_*.html
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
