@@ -17,7 +17,7 @@ venv.bak/
 *.sqlite
 
 # Кэш и временные данные
-cache_data/
+
 *.cache.json
 *.json
 debug_*.html
